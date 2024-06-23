@@ -14,4 +14,4 @@ This is a Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 <br>
 
-<p>Game Link: </p>
+<p>Game Link: https://swagatam007.github.io/Tic-Tac-Toe/</p>
